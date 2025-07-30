@@ -1,0 +1,3 @@
+Home.py #launcher fro streamlit dashboard
+/pages/ #pages of the dashboard
+__pycache__/
